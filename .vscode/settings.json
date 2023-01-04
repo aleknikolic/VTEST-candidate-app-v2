@@ -1,0 +1,7 @@
+{
+    "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "vue-i18n.i18nPaths": "src/config/i18n"
+}
